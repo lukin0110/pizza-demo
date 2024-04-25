@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.3.1
+_src_path: git@github.com:lukin0110/poetry-copier.git
+ci: github
+description: A package that demo's pizza charts
+name: Pizza
+package_type: streamlit
+repository_url: https://github.com/lukin0110/pizza-demo/
+use_makefile: true
+use_private_package_repository: false
+use_pydantic: true
